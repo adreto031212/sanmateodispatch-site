@@ -1,0 +1,24 @@
+# San Mateo Dispatch
+
+> The San Mateo Dispatch is a free weekly email newsletter about San Mateo, Burlingame and Hillsborough, CA, sent Thursdays at 6 AM Pacific and published by Neighborhood Press LLC. It covers city council decisions, land-use and permit notices, road and transit changes, school district news, openings and closings, with one section per neighborhood. Every item links its public source. It is researched and written with AI tools, and an editor reads every issue before it goes out.
+
+## Key pages
+- [This week in San Mateo and Burlingame](https://www.sanmateodispatch.com/this-week/): the dated items for the current week, updated every Thursday
+- [Standards](https://www.sanmateodispatch.com/standards/): publisher, sources, sponsors, corrections
+- [Subscribe](https://www.sanmateodispatch.com/): free, one email a week
+
+## Neighborhoods
+- [Downtown San Mateo](https://www.sanmateodispatch.com/downtown-san-mateo/): Downtown San Mateo around the Caltrain station at 385 First Avenue, with the Main Library at 55 West Third Avenue and Central Park on East Fifth Avenue.
+- [North Central](https://www.sanmateodispatch.com/north-central/): From Fourth Avenue north to the Burlingame line between San Mateo Drive and US 101, with Martin Luther King Jr. Park and Center on Monte Diablo Avenue.
+- [San Mateo Park](https://www.sanmateodispatch.com/san-mateo-park/): The streets west of El Camino Real between Barroilhet Avenue and the Hillsborough town line, in the northwest corner of San Mateo next to Burlingame.
+- [Baywood](https://www.sanmateodispatch.com/baywood/): Streets between El Camino Real and the Hillsborough town line from Crystal Springs Road south toward State Route 92, including Baywood Avenue and El Cerrito Way.
+- [Sunnybrae](https://www.sanmateodispatch.com/sunnybrae/): Streets from Ninth Avenue south to East 16th Avenue between South Amphlett Boulevard and South Railroad Avenue, with Sunnybrae Playground on Folkstone Avenue.
+- [Shoreview and Mariners Island](https://www.sanmateodispatch.com/shoreview-mariners-island/): East of US 101 along the bay, from Poplar Creek Golf Course south to Mariners Island, with Shoreview Park, Parkside Aquatic Park, Seal Point Park and Marina Lagoon.
+- [Bay Meadows](https://www.sanmateodispatch.com/bay-meadows/): The streets between South Delaware Street, 28th Avenue, Saratoga Drive and East 31st Avenue, with Bay Meadows Park on East 28th Avenue next to the Hillsdale Caltrain station.
+- [Beresford-Hillsdale](https://www.sanmateodispatch.com/beresford-hillsdale/): West of El Camino Real from 28th Avenue south to the Belmont line, up to Alameda de las Pulgas, with Beresford Park and Center on the Alameda.
+- [Laurelwood](https://www.sanmateodispatch.com/laurelwood/): The streets around Glendora Drive and De Anza Boulevard south of State Route 92, with Laurelwood/Sugarloaf Park at 3471 Glendora Drive.
+- [Downtown Burlingame](https://www.sanmateodispatch.com/downtown-burlingame/): Burlingame Avenue and the blocks around the Caltrain station on California Drive, with Town Square between Park Road and Lorton Avenue, the Main Library on Primrose Road and Washington Park.
+- [Broadway and Easton Addition](https://www.sanmateodispatch.com/broadway-easton-addition/): Broadway and the blocks south of it to Sanchez Creek between California Drive and El Camino Real, first mapped in 1905 as Easton Addition, including Easton Drive.
+- [North Burlingame](https://www.sanmateodispatch.com/north-burlingame/): The north end of Burlingame up to Murchison Drive, with Mills Canyon Wildlife Area off Adeline and Arguello, Trousdale Drive, and Village Park on California Drive.
+- [Burlingame Bayfront](https://www.sanmateodispatch.com/burlingame-bayfront/): The shoreline east of US 101 along Airport Boulevard and Old Bayshore Highway, with the Bay Trail, Bayside Fields and the Shorebird Sanctuary marsh at the mouth of Mills Creek.
+- [Hillsborough](https://www.sanmateodispatch.com/hillsborough/): The Town of Hillsborough, west of Burlingame and San Mateo, with Town Hall at 1600 Floribunda Avenue and the historic Howard-Ralston tree rows along El Camino Real.
