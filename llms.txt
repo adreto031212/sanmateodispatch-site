@@ -4,6 +4,7 @@
 
 ## Key pages
 - [This week in San Mateo and Burlingame](https://www.sanmateodispatch.com/this-week/): the dated items for the current week, updated every Thursday
+- [San Mateo and Burlingame news](https://www.sanmateodispatch.com/news/): every story, newest first
 - [Standards](https://www.sanmateodispatch.com/standards/): publisher, sources, sponsors, corrections
 - [Subscribe](https://www.sanmateodispatch.com/): free, one email a week
 
@@ -22,3 +23,9 @@
 - [North Burlingame](https://www.sanmateodispatch.com/north-burlingame/): The north end of Burlingame up to Murchison Drive, with Mills Canyon Wildlife Area off Adeline and Arguello, Trousdale Drive, and Village Park on California Drive.
 - [Burlingame Bayfront](https://www.sanmateodispatch.com/burlingame-bayfront/): The shoreline east of US 101 along Airport Boulevard and Old Bayshore Highway, with the Bay Trail, Bayside Fields and the Shorebird Sanctuary marsh at the mouth of Mills Creek.
 - [Hillsborough](https://www.sanmateodispatch.com/hillsborough/): The Town of Hillsborough, west of Burlingame and San Mateo, with Town Hall at 1600 Floribunda Avenue and the historic Howard-Ralston tree rows along El Camino Real.
+
+## Latest
+- [No left turns on El Camino Real between Hillside Drive and Lincoln Avenue through December](https://www.sanmateodispatch.com/news/2026-11-19-no-left-turns-on-el-camino-real-between-hillside-drive-and-lincoln-ave/) (2026-11-19)
+- [The county is getting ready for a strong El Niño winter, and sandbags are free now](https://www.sanmateodispatch.com/news/2026-11-19-the-county-is-getting-ready-for-a-strong-el-ni-o-winter-and-sandbags-a/) (2026-11-19)
+- [A traffic signal for Hillsdale Boulevard and Alameda de las Pulgas is out to bid](https://www.sanmateodispatch.com/news/2026-11-19-a-traffic-signal-for-hillsdale-boulevard-and-alameda-de-las-pulgas-is/) (2026-11-19)
+- [adopt a storm drain](https://www.sanmateodispatch.com/news/2026-11-19-adopt-a-storm-drain/) (2026-11-19)
